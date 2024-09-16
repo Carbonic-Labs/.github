@@ -1,1 +1,1 @@
-# .github
+Reinventing computer graphics.
